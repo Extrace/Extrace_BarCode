@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, BarCodeTestActivity!</string>
     <string name="app_name">BarCodeTest</string>
+    <string name="scan_text">请将条形码置于方框内</string>
 
 </resources>
